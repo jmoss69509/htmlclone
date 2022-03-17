@@ -1,5 +1,28 @@
 body {
-    margin: 50px;
-    padding: 100px;
     background-color: rgb(102, 200, 233);
+}
+
+#container {
+    margin: 100px;
+    padding: 20px;
+    background-color: darkorange;
+    border-radius: 5px;
+}
+
+#right {
+    background-color: antiquewhite;
+    float: right;
+    width: 33%;
+    border: 1px solid black;
+}
+
+#left {
+    background-color: aquamarine;
+    float: left;
+    width: 33%;
+}
+
+#centre {
+    background-color: brown;
+    text-align: center;
 }
