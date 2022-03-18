@@ -1,8 +1,4 @@
-document.writeln ('This is working.' + '<BR>');
-
-function addName(name){
-    document.writeln ("Hello " + name + "<BR>");
+function processData(){
+    const sampleData = document.getElementById=('para1').innerHTML;
+    alert(sampleData);
 }
-
-addName('Fred');
-addName('Fido');
