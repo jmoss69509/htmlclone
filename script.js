@@ -1,4 +1,8 @@
 function processData(){
-    const sampleData = document.getElementById=('para1').innerHTML;
-    alert(sampleData);
+   let dataIn = document.getElementById('textBox').value;
+
+   //alert (dataIn);
+   let dataArr =  dataIn.split("")
+   document.getElementById('centre').innerHTML=dataArr[4];
+   
 }
