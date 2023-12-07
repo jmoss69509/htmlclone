@@ -1,8 +1,12 @@
 body {
-  background-color: rgb(102, 200, 233);
+  background-color: rgb(233, 165, 102);
 }
 div {
     font-size: larger;
+}
+
+#h1 {
+  text-align: center;
 }
 
 #container {
