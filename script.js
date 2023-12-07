@@ -48,4 +48,6 @@ function stripPounds(){
     console.log ('Function Working');
   }
 }
+window.document.write ('Javascript is working');
+console.log (2);
 

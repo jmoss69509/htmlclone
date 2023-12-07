@@ -1,5 +1,6 @@
 body {
-  background-color: rgb(233, 165, 102);
+  margin: 10%;
+  background-color: rgb(209, 233, 102);
 }
 div {
     font-size: larger;
@@ -23,6 +24,9 @@ div {
 
 #centre {
   background-color: crimson;
+}
+body {
+  color: rgb(231, 121, 185);
 }
 
 #inputData {
