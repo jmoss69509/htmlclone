@@ -50,4 +50,7 @@ function stripPounds(){
 }
 window.document.write ('Javascript is working');
 console.log (2);
+function changeheading(){
+  document.getElementById('heading').innerHTML=('Changed!');
+}
 
